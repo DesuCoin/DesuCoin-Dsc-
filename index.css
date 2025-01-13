@@ -1,9 +1,9 @@
 img {
     position: absolute;
     bottom: 0%;
-    right: 30%;
-    width: 737px;
-    height: 700px;
+    right: 0%;
+    width: 0px;
+    height: 0px;
 }
 
 body {
